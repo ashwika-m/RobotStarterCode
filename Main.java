@@ -12,7 +12,7 @@ public class Main implements Directions {
     World.setSize(10,10);
     World.setDelay(100);
 
-		karel.move();
+	karel.move();
     karel.putBeeper();
     karel.move();
     karel.move();
